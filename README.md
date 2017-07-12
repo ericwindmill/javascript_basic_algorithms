@@ -1,4 +1,4 @@
-# Assessment 5 Study Guide
+# Javascript Basics Study Guide
 
 ## Study
 This is a collection of problems that will help you prepare for a competitive bootcamp technical interview. 
