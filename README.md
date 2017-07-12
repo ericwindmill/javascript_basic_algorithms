@@ -2,6 +2,7 @@
 
 ## Study
 This is a collection of problems that will help you prepare for a competitive bootcamp technical interview. 
+I personally went to App Academy, but interviewed and got accepted into Hack Reactor, Galvanize and Coding Dojo as well. 
 
 ### Hot Study Tips
 * Know on a high-level what Test Driven Development is.
